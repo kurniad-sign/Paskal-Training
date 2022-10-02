@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "880152410391",
+    "project_id": "paskal-training-app",
+    "storage_bucket": "paskal-training-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880152410391:android:153461e75fe5fad5089f52",
+        "android_client_info": {
+          "package_name": "com.paskaltrainingmobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "880152410391-0gkf68tib1jd8cijlj77uk8130f4l5qa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4BCp3r3hHPmMRrQNtzNzGck8OPctI5Xw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "880152410391-0gkf68tib1jd8cijlj77uk8130f4l5qa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
